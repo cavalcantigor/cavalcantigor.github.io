@@ -5,7 +5,7 @@ data: 25 de Dezembro de 2019
 hora: "23:59:00"
 ---
 
-Bem vindos ao meu mais novo website!
+Alô mãe, estou na Web!
 
 Depois de muito tempo planejando e pouco tempo executando, finalmente tenho uma versão do meu currículo online e, de quebra, um espaço para postagens sobre o que me der na telha.
 
