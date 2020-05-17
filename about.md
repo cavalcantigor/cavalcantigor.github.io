@@ -8,6 +8,8 @@ Olá, sou **Igor Cavalcanti** e atualmente estou trabalhando como Desenvolvedor 
 
 Além de desenvolvimento Web, também me interesso por *Machine Learning*, *Data Mining* e Metaheurísticas de Buscas. Desenvolvi trabalhos de pesquisa durante 2 anos no laboratório de pesquisa **LACMOR** da Universidade Federal do Maranhão. Entre os trabalhos de pesquisa, estão implementações de algoritmos como [BRKGA](https://gitlab.com/cavalcantigor/algoritmos-de-otimizacao/tree/master/brkga-pctsp), GRASP e GA para problemas de Pesquisa Operacional.
 
+Conheça meu [currículo lattes](http://lattes.cnpq.br/5478446734569628).
+
 ### Formação
 
 * (2012-2018) Universidade Federal do Maranhão: Bacharel em Ciência da Computação.
