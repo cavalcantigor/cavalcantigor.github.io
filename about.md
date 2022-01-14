@@ -4,7 +4,7 @@ title: Sobre
 permalink: /about/
 ---
 
-Olá, sou **Igor Cavalcanti** e atualmente estou trabalhando como Desenvolvedor Backend no LuizaLabs, na *squad* Busca da tribo de Personalização do Magalu. Trabalho com desenvolvimento profissionalmente há 3 anos, atuando principalmente no *backend*. Atualmente mestrando em Ciência da Computação e cursando MBA em Análise de dados com BI e Big Data.
+Olá, sou **Igor Cavalcanti** e atualmente estou trabalhando como Desenvolvedor Backend no LuizaLabs, na *squad* Busca da tribo de Personalização do Magalu. Auto no desenvolvimento web há mais de 6 anos, focando principalmente no *backend*. Atualmente mestrando em Ciência da Computação e cursando pós-graduação em Docência para Ensino Superior.
 
 Além de desenvolvimento, também me interesso por *Machine Learning*, *Data Mining* e Metaheurísticas de Buscas. Também sou pesquisador vinculado ao laboratório [**LACMOR**](http://lacmor.ufma.br/) da Universidade Federal do Maranhão. Entre os principais trabalhos de pesquisa, estão implementações de algoritmos como [BRKGA](https://gitlab.com/cavalcantigor/algoritmos-de-otimizacao/tree/master/brkga-pctsp), GRASP e GA para problemas de Otimização Combinatória.
 
@@ -14,6 +14,8 @@ Conheça meu [currículo lattes](http://lattes.cnpq.br/5478446734569628).
 
 * (2021) Universidade Federal do Maranhão: Programa de Pós-Graduação em Ciência da Computação.
 Mestrado em andamento.
+
+* (2020) Universidade Norte do Paraná: Docência no Ensino Superior. Em andamento.
 
 * (2020) Cruzeiro do Sul Virtual: MBA em Análise de dados com BI e Big Data. Em andamento.
 
